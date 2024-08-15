@@ -1,8 +1,19 @@
+# Selenium Project#4 - Mini Project
+
+# open the url - https://katalon-demo-cura.herokuapp.com/
+# click on the make appointment button
+# verify that url changes - assert
+# time.sleep(3)
+# enter the username, password
+# next page verify the current url
+# make appointment text on the web page.
+
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pytest
 import allure
+
 
 @pytest.mark.positive
 @allure.title("Verify that URL changes")
@@ -68,4 +79,3 @@ def test_mini_project4():
     # Close the browser
     driver.quit()
     print("Closed the browser.")
-

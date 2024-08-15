@@ -1,3 +1,13 @@
+# Selenium Mini Project #3
+
+# Open the URL - https://www.idrive360.com/enterprise/login
+# Enter the username, password
+# Verify that Trial is finished and current URL also
+# Add a logic to add Allure Screen for the Trail end
+
+# username : augtest_040823@idrive.com
+# password : 123456
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
