@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6467e18e-8b0c-4cce-a19d-53c319510ee8" name="Changes" comment="Options Class">
-      <change afterPath="$PROJECT_DIR$/12082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_mini_project3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12082024/test_mini_project4.py" afterDir="false" />
+    <list default="true" id="6467e18e-8b0c-4cce-a19d-53c319510ee8" name="Changes" comment="mini project added">
+      <change afterPath="$PROJECT_DIR$/14082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14082024/test_Lab010.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vimalsurani"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vimalsurani&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vimalsurani/PyLearningSelenium.git",
-    "accountId": "0d907ca9-ea05-4ea1-a2d8-42ed414c8dde"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vimalsurani/PyLearningSelenium.git&quot;,
+    &quot;accountId&quot;: &quot;0d907ca9-ea05-4ea1-a2d8-42ed414c8dde&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2khU4iFi1i9AJCHvwkf26mScH3E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,28 +47,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_Lab003.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab004.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab005.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab006.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests for test_Lab008.test_mini_project_2.executor": "Run",
-    "Python tests.Python tests for test_Lab009.test_mini_project_3.executor": "Run",
-    "Python tests.Python tests for test_mini_project3.test_mini_project3.executor": "Run",
-    "Python tests.Python tests for test_mini_project4.test_mini_project4.executor": "Run",
-    "Python tests.Python tests for test_sele_Lab001.test_sample.executor": "Run",
-    "Python tests.Python tests for test_sele_Lab002.test_open_vwologin.executor": "Run",
-    "Python tests.Python tests in test_Lab004.py.executor": "Run",
-    "Python tests.Python tests in test_Lab007.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab001.py.executor": "Run",
-    "Python tests.Python tests in test_sele_Lab002.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ViMS/PycharmProjects/PyAPIAutomationFramework"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab003.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab004.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab005.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab006.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab008.test_mini_project_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab009.test_mini_project_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_mini_project3.test_mini_project3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_mini_project4.test_mini_project4.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_sele_Lab001.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_sele_Lab002.test_open_vwologin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab004.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab007.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab001.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_sele_Lab002.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ViMS/PycharmProjects/PyAPIAutomationFramework&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_mini_project3.test_mini_project3">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab010.test_katalon_demo">
     <configuration name="Python tests for test_Lab008.test_mini_project_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearningSelenium" />
       <option name="ENV_FILES" value="" />
@@ -100,6 +96,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_Lab009.test_mini_project_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab010.test_katalon_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab010.test_katalon_demo&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -133,28 +144,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab007.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyLearningSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/12082024/test_Lab007.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab010.test_katalon_demo" />
         <item itemvalue="Python tests.Python tests for test_mini_project3.test_mini_project3" />
         <item itemvalue="Python tests.Python tests for test_mini_project4.test_mini_project4" />
         <item itemvalue="Python tests.Python tests for test_Lab009.test_mini_project_3" />
         <item itemvalue="Python tests.Python tests for test_Lab008.test_mini_project_2" />
-        <item itemvalue="Python tests.Python tests in test_Lab007.py" />
       </list>
     </recent_temporary>
   </component>
@@ -190,12 +186,29 @@
       <option name="project" value="LOCAL" />
       <updated>1723744719736</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="mini project added">
+      <option name="closed" value="true" />
+      <created>1723747914892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723747914892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mini project added">
+      <option name="closed" value="true" />
+      <created>1723748082943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723748082943</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added lab001" />
     <MESSAGE value="Options Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Options Class" />
+    <MESSAGE value="mini project added" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini project added" />
   </component>
 </project>
