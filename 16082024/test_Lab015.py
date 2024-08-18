@@ -13,6 +13,5 @@ def test_select_demo():
     element_select = driver.find_element(By.ID, "dropdown")
     select = Select(element_select)
     select.select_by_visible_text("Option 2")
-    select.se("Option 2")
 
     time.sleep(10)
