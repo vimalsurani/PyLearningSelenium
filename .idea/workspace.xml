@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6467e18e-8b0c-4cce-a19d-53c319510ee8" name="Changes" comment="mini project added">
-      <change afterPath="$PROJECT_DIR$/14082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14082024/test_Lab010.py" afterDir="false" />
+    <list default="true" id="6467e18e-8b0c-4cce-a19d-53c319510ee8" name="Changes" comment="Locators">
+      <change afterPath="$PROJECT_DIR$/16082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16082024/test_Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16082024/test_Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16082024/test_Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16082024/test_Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16082024/test_Lab015.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +59,9 @@
     &quot;Python tests.Python tests for test_Lab006.test_open_vwologin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab008.test_mini_project_2.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab009.test_mini_project_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab010.test_katalon_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab011.test_vwo_login_invalid.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab013.test_katalon_demo.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_mini_project3.test_mini_project3.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_mini_project4.test_mini_project4.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_sele_Lab001.test_sample.executor&quot;: &quot;Run&quot;,
@@ -65,40 +72,10 @@
     &quot;Python tests.Python tests in test_sele_Lab002.py.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ViMS/PycharmProjects/PyAPIAutomationFramework&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ViMS/PycharmProjects/PyLearningSelenium&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab010.test_katalon_demo">
-    <configuration name="Python tests for test_Lab008.test_mini_project_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyLearningSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab008.test_mini_project_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab009.test_mini_project_3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyLearningSelenium" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab009.test_mini_project_3&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab013.test_katalon_demo">
     <configuration name="Python tests for test_Lab010.test_katalon_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyLearningSelenium" />
       <option name="ENV_FILES" value="" />
@@ -111,6 +88,36 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_Lab010.test_katalon_demo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab011.test_vwo_login_invalid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab011.test_vwo_login_invalid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab013.test_katalon_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab013.test_katalon_demo&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -146,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab013.test_katalon_demo" />
+        <item itemvalue="Python tests.Python tests for test_Lab011.test_vwo_login_invalid" />
         <item itemvalue="Python tests.Python tests for test_Lab010.test_katalon_demo" />
         <item itemvalue="Python tests.Python tests for test_mini_project3.test_mini_project3" />
         <item itemvalue="Python tests.Python tests for test_mini_project4.test_mini_project4" />
-        <item itemvalue="Python tests.Python tests for test_Lab009.test_mini_project_3" />
-        <item itemvalue="Python tests.Python tests for test_Lab008.test_mini_project_2" />
       </list>
     </recent_temporary>
   </component>
@@ -202,13 +209,22 @@
       <option name="project" value="LOCAL" />
       <updated>1723748082943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Locators">
+      <option name="closed" value="true" />
+      <created>1723996176752</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723996176752</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added lab001" />
     <MESSAGE value="Options Class" />
     <MESSAGE value="mini project added" />
-    <option name="LAST_COMMIT_MESSAGE" value="mini project added" />
+    <MESSAGE value="Locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Locators" />
   </component>
 </project>
